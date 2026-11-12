@@ -18,7 +18,7 @@ O site foi desenvolvido como parte das atividades do curso Técnico em Desenvolv
 
 ## 🔗 3. Link do site publicado
 
-👉 [Acessar meu portfólio](INSERIR_LINK_DO_GITHUB_PAGES)
+👉 [Acessar meu portfólio](https://felipestabilemartins.github.io/Portfolio/)
 
 ## ⚙️ 4. Funcionamento do projeto
 
