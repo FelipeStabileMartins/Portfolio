@@ -35,6 +35,14 @@ O site utiliza o Bootstrap para organizar os elementos e facilitar a navegação
 O recurso novo adicionado ao projeto foi um **carrossel de projetos**.
 
 Esse recurso permite apresentar diferentes imagens de projetos em uma sequência de slides, utilizando botões de navegação para avançar e retornar.
+Também foram acrescentadas as seguintes melhorias:
+
+🎠 Efeito de transição suave entre as imagens do carrossel.
+⏱️ Troca automática dos slides.
+💻 Nova seção de Tecnologias e Ferramentas, apresentando ícones de HTML5, CSS3, Bootstrap, Python, GitHub e VS Code.
+🎨 Melhorias visuais no layout, com cards, sombras e bordas arredondadas.
+
+
 
 ## 🔧 6. Como o recurso foi implementado
 
@@ -49,6 +57,15 @@ Foram utilizados:
 - ▶️ `carousel-control-next`: botão para avançar.
 
 Também foi utilizado o JavaScript do Bootstrap para permitir a navegação entre os slides.
+
+    Para as novas melhorias, foram utilizados:
+
+    carousel-fade: efeito de transição suave entre as imagens.
+    data-bs-ride: inicialização automática do carrossel.
+    data-bs-interval: definição do tempo de troca automática dos slides.
+    Cards do Bootstrap para organizar a seção de Tecnologias e Ferramentas.
+    Biblioteca Devicon para apresentar os ícones das tecnologias.
+
 
 ## 🎯 7. Considerações finais
 
